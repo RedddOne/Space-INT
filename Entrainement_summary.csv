@@ -1,0 +1,2 @@
+filename,start_time,end_time,duration_sec,max_amplitude,SNR_dB,start_time_rel_sec,end_time_rel_sec
+XB.ELYSE.02.BHV.2022-02-03HR08_evid0005.csv,2022-02-03T08:11:44.659000,2022-02-03T08:14:14.209000,149.55,1325.717529296875,-3.145273084354931,704.65,854.2
